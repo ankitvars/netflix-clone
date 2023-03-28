@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 4,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.bracketSameLine": true,
+  "prettier.endOfLine": "auto",
+  "prettier.jsxSingleQuote": true,
+  "prettier.useTabs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
